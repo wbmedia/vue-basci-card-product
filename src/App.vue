@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import ShoppingCart from './components/ShoppingCart.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <ShoppingCart />
 </template>
 
 <style scoped>
